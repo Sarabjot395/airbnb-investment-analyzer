@@ -1,0 +1,6 @@
+SELECT
+    host_id,
+    COUNT(*) AS total_listings
+FROM listings
+GROUP BY host_id
+ORDER BY total_listings DESC;

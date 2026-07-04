@@ -1,0 +1,4 @@
+SELECT name, city, price, room_type
+FROM listings
+WHERE city = 'Boston'
+LIMIT 10;

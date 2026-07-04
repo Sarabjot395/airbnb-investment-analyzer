@@ -1,0 +1,5 @@
+SELECT name 
+FROM listings
+WHERE city ="New York"
+ORDER BY DESC
+LIMIT 10;

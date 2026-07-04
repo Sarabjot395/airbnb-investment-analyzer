@@ -1,0 +1,4 @@
+SELECT city,room_typeAVG(reviews_per_month) AS reviews_permonth
+FROM listings 
+GROUP BY city,room_type
+ORDER BY desc;

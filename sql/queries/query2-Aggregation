@@ -1,0 +1,4 @@
+SELECT city, AVG(price) as avg_price
+FROM listings
+GROUP BY city
+ORDER BY avg_price DESC;

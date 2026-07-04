@@ -1,0 +1,1030 @@
+city,neighbourhood,total_listings,avg_price,avg_reviews_per_month
+Asheville,28704,121,168.43,2.16
+Asheville,28715,44,159.48,2.98
+Asheville,28732,43,184.84,2.77
+Asheville,28801,532,174.33,2.29
+Asheville,28803,281,151.46,2.96
+Asheville,28804,254,175.52,2.76
+Asheville,28805,219,155.47,2.66
+Asheville,28806,576,127.69,2.96
+Austin,78701,738,268.31,0.83
+Austin,78702,1299,257.5,1.38
+Austin,78703,501,306.55,1.0
+Austin,78704,1865,253.11,1.02
+Austin,78705,455,172.59,0.78
+Austin,78717,88,104.49,0.53
+Austin,78721,198,149.98,1.72
+Austin,78722,196,183.67,1.05
+Austin,78723,310,176.21,0.91
+Austin,78724,60,151.18,0.98
+Austin,78725,49,115.94,1.05
+Austin,78727,110,105.04,0.81
+Austin,78728,69,131.86,0.75
+Austin,78729,155,106.59,0.59
+Austin,78730,59,200.14,0.23
+Austin,78731,125,243.55,0.91
+Austin,78732,47,485.49,0.96
+Austin,78733,57,290.11,1.08
+Austin,78734,221,341.01,1.44
+Austin,78735,106,146.51,0.17
+Austin,78736,46,280.67,1.17
+Austin,78737,78,269.24,1.85
+Austin,78738,38,314.39,0.88
+Austin,78739,24,370.38,0.6
+Austin,78741,653,162.39,0.91
+Austin,78744,153,118.91,1.3
+Austin,78745,476,152.9,0.79
+Austin,78746,220,389.18,0.62
+Austin,78747,40,126.28,0.52
+Austin,78748,146,130.75,0.84
+Austin,78749,126,162.83,0.77
+Austin,78750,41,148.44,0.81
+Austin,78751,450,126.77,0.92
+Austin,78752,107,140.73,1.28
+Austin,78753,95,103.29,1.06
+Austin,78754,108,100.49,0.71
+Austin,78756,113,172.14,1.19
+Austin,78757,212,159.79,0.86
+Austin,78758,312,103.97,0.69
+Austin,78759,101,168.92,0.78
+Boston,Allston,176,103.39,1.69
+Boston,Back Bay,206,192.89,1.13
+Boston,Bay Village,66,150.21,1.44
+Boston,Beacon Hill,117,172.79,1.33
+Boston,Brighton,259,130.29,0.64
+Boston,Charlestown,94,230.35,0.93
+Boston,Chinatown,122,206.13,0.4
+Boston,Dorchester,416,118.25,1.16
+Boston,Downtown,300,201.77,1.03
+Boston,East Boston,183,140.06,2.24
+Boston,Fenway,136,341.37,0.58
+Boston,Hyde Park,39,75.97,1.03
+Boston,Jamaica Plain,264,154.61,0.94
+Boston,Mattapan,47,82.19,1.28
+Boston,Mission Hill,50,146.36,1.23
+Boston,North End,71,196.3,1.71
+Boston,Roslindale,62,101.61,1.07
+Boston,Roxbury,252,112.23,1.25
+Boston,South Boston,161,185.47,1.11
+Boston,South Boston Waterfront,48,238.69,0.24
+Boston,South End,182,180.98,1.47
+Boston,West End,33,307.21,0.35
+Boston,West Roxbury,36,227.33,1.06
+Broward County,Coconut Creek,58,100.55,1.07
+Broward County,Cooper City,44,108.7,0.97
+Broward County,Coral Springs,116,196.88,0.65
+Broward County,Dania Beach,323,232.36,1.24
+Broward County,Davie,137,169.01,1.14
+Broward County,Deerfield Beach,462,197.94,0.88
+Broward County,Fort Lauderdale,2404,228.7,1.48
+Broward County,Hallandale Beach,1020,237.18,0.62
+Broward County,Hillsboro Beach,34,206.74,0.19
+Broward County,Hollywood,2838,203.86,0.98
+Broward County,Lauderdale By The Sea,277,228.71,1.02
+Broward County,Lauderdale Lakes,37,110.16,0.98
+Broward County,Lauderhill,75,99.73,0.88
+Broward County,Lighthouse Point,41,246.41,0.95
+Broward County,Margate,61,99.85,0.82
+Broward County,Miramar,249,155.9,0.76
+Broward County,North Lauderdale,48,103.94,0.71
+Broward County,Oakland Park,259,190.85,1.3
+Broward County,Parkland,22,120.41,1.21
+Broward County,Pembroke Park,25,89.04,0.93
+Broward County,Pembroke Pines,231,141.33,0.95
+Broward County,Plantation,214,200.81,0.99
+Broward County,Pompano Beach,989,176.92,0.65
+Broward County,Sunrise,158,91.46,1.14
+Broward County,Tamarac,76,275.25,0.67
+Broward County,Unincorporated,39,175.26,0.64
+Broward County,West Park,97,72.8,1.54
+Broward County,Weston,112,156.76,0.33
+Broward County,Wilton Manors,280,169.49,1.43
+Cambridge,Agassiz,39,182.92,1.3
+Cambridge,Area 2/MIT,29,162.66,0.35
+Cambridge,Cambridgeport,152,145.88,1.69
+Cambridge,East Cambridge,123,220.93,0.89
+Cambridge,Mid-Cambridge,152,162.53,1.21
+Cambridge,Neighborhood Nine,91,126.98,1.01
+Cambridge,North Cambridge,87,142.71,1.2
+Cambridge,Riverside,60,156.03,1.24
+Cambridge,Strawberry Hill,30,173.5,0.72
+Cambridge,The Port,108,151.81,1.51
+Cambridge,Wellington-Harrington,82,127.06,1.87
+Cambridge,West Cambridge,68,153.85,1.11
+Chicago,Albany Park,68,88.0,1.47
+Chicago,Armour Square,67,132.94,1.88
+Chicago,Austin,49,97.69,1.3
+Chicago,Avondale,148,132.61,1.46
+Chicago,Belmont Cragin,25,87.0,0.57
+Chicago,Bridgeport,112,111.89,1.88
+Chicago,Brighton Park,26,96.85,1.54
+Chicago,Douglas,58,139.52,1.21
+Chicago,Dunning,26,73.12,1.61
+Chicago,East Garfield Park,94,76.65,1.93
+Chicago,Edgewater,170,110.15,1.58
+Chicago,Grand Boulevard,105,116.48,1.11
+Chicago,Greater Grand Crossing,29,84.07,1.13
+Chicago,Humboldt Park,68,85.29,1.72
+Chicago,Hyde Park,95,91.65,1.9
+Chicago,Irving Park,154,94.28,1.47
+Chicago,Jefferson Park,44,98.73,2.32
+Chicago,Kenwood,42,142.71,1.45
+Chicago,Lake View,531,167.86,1.56
+Chicago,Lincoln Park,315,174.05,1.57
+Chicago,Lincoln Square,91,109.75,1.77
+Chicago,Logan Square,398,140.57,1.92
+Chicago,Loop,369,172.74,0.89
+Chicago,Lower West Side,190,90.72,2.05
+Chicago,Mckinley Park,25,66.32,1.91
+Chicago,Near North Side,679,187.53,0.99
+Chicago,Near South Side,145,155.67,1.26
+Chicago,Near West Side,320,149.33,1.22
+Chicago,North Center,137,165.37,1.59
+Chicago,North Lawndale,30,50.93,1.53
+Chicago,North Park,27,106.56,1.46
+Chicago,Norwood Park,29,69.76,1.9
+Chicago,Portage Park,83,108.8,1.48
+Chicago,Rogers Park,125,112.77,1.09
+Chicago,South Chicago,21,103.43,0.65
+Chicago,South Lawndale,42,69.0,1.42
+Chicago,South Shore,91,78.79,0.76
+Chicago,Uptown,171,151.23,1.53
+Chicago,Washington Park,33,101.79,0.54
+Chicago,West Ridge,69,85.61,1.06
+Chicago,West Town,721,150.23,1.68
+Chicago,Woodlawn,84,69.7,1.26
+Clark County,City of Henderson,394,220.46,1.76
+Clark County,City of Las Vegas,995,151.87,1.3
+Clark County,City of Mesquite,132,119.95,0.5
+Clark County,City of North Las Vegas,305,155.09,1.92
+Clark County,Unincorporated Areas,6508,194.32,1.25
+Columbus,Clintonville,56,113.5,2.09
+Columbus,Downtown,112,379.5,2.27
+Columbus,Eastmoor/Walnut Ridge,27,81.56,3.01
+Columbus,Franklinton,47,111.83,2.63
+Columbus,Near East,109,106.88,2.26
+Columbus,Near North/University,546,138.24,2.43
+Columbus,Near South,199,138.73,2.72
+Columbus,Northeast,22,76.14,2.8
+Columbus,Northland,45,65.64,2.15
+Columbus,Rocky Fork-Blacklick,22,113.73,0.83
+Columbus,South Linden,26,84.5,2.0
+Columbus,West Olentangy,45,129.87,1.9
+Denver,Athmar Park,24,110.33,1.79
+Denver,Baker,95,130.2,1.91
+Denver,Berkeley,117,134.59,2.08
+Denver,CBD,131,181.68,0.48
+Denver,Capitol Hill,182,130.39,1.68
+Denver,Chaffee Park,27,94.78,2.84
+Denver,Cheesman Park,86,114.83,1.74
+Denver,Cherry Creek,26,175.62,0.81
+Denver,City Park,28,120.07,1.82
+Denver,City Park West,102,139.33,2.24
+Denver,Civic Center,25,294.0,1.7
+Denver,Clayton,44,103.64,2.64
+Denver,Cole,75,131.13,2.39
+Denver,Congress Park,98,122.19,1.99
+Denver,East Colfax,39,83.36,1.48
+Denver,Five Points,375,279.84,1.95
+Denver,Gateway - Green Valley Ranch,148,90.9,2.84
+Denver,Hale,41,143.24,1.5
+Denver,Hampden,33,102.21,1.27
+Denver,Hampden South,31,76.84,0.71
+Denver,Highland,265,177.15,1.82
+Denver,Hilltop,22,145.95,1.03
+Denver,Jefferson Park,79,179.84,1.77
+Denver,Lincoln Park,79,118.89,2.92
+Denver,Lowry Field,23,110.0,0.43
+Denver,Mar Lee,26,77.23,1.23
+Denver,North Capitol Hill,62,123.24,1.47
+Denver,North Park Hill,52,110.92,2.13
+Denver,Northeast Park Hill,43,92.63,2.27
+Denver,Platt Park,62,135.5,1.8
+Denver,Regis,40,100.13,2.86
+Denver,Rosedale,26,116.69,2.6
+Denver,Ruby Hill,23,63.78,3.0
+Denver,Skyland,43,105.33,2.91
+Denver,Sloan Lake,99,166.15,1.99
+Denver,South Park Hill,42,116.55,1.95
+Denver,Speer,133,116.26,1.96
+Denver,Stapleton,108,150.39,1.0
+Denver,Sunnyside,122,140.86,2.13
+Denver,Union Station,167,180.23,0.86
+Denver,University,48,107.52,1.75
+Denver,University Hills,25,125.32,0.67
+Denver,University Park,40,164.93,1.02
+Denver,Valverde,24,74.08,2.4
+Denver,Villa Park,37,112.46,2.48
+Denver,Virginia Village,33,100.24,1.6
+Denver,Washington Park,31,173.52,2.22
+Denver,Washington Park West,50,136.06,1.98
+Denver,Washington Virginia Vale,34,110.44,1.79
+Denver,West Colfax,112,158.72,2.01
+Denver,West Highland,136,135.54,1.6
+Denver,Whittier,101,151.17,2.3
+Denver,Windsor,24,80.67,0.35
+Hawaii,Central Oahu,41,136.1,0.99
+Hawaii,East Honolulu,150,313.56,0.84
+Hawaii,Ewa,413,327.45,0.46
+Hawaii,Hamakua,65,149.74,1.43
+Hawaii,Hana,73,286.01,2.66
+Hawaii,Kapaa-Wailua,550,218.86,0.66
+Hawaii,Kau,140,127.07,1.16
+Hawaii,Kihei-Makena,3815,248.37,0.56
+Hawaii,Koloa-Poipu,1106,358.28,0.36
+Hawaii,Koolauloa,413,299.54,1.01
+Hawaii,Koolaupoko,478,330.07,0.95
+Hawaii,Lahaina,3422,361.6,0.39
+Hawaii,Lihue,241,224.34,0.6
+Hawaii,Makawao-Pukalani-Kula,38,242.63,1.41
+Hawaii,Molokai,120,129.36,0.78
+Hawaii,North Hilo,52,139.0,1.09
+Hawaii,North Kohala,90,226.78,0.87
+Hawaii,North Kona,2022,223.59,0.9
+Hawaii,North Shore Kauai,1274,312.08,0.75
+Hawaii,North Shore Oahu,336,253.76,1.15
+Hawaii,Paia-Haiku,215,286.09,1.43
+Hawaii,Primary Urban Center,4148,158.52,0.94
+Hawaii,Puna,903,123.03,1.28
+Hawaii,South Hilo,399,139.03,1.4
+Hawaii,South Kohala,980,323.28,0.43
+Hawaii,South Kona,261,184.61,1.03
+Hawaii,Waianae,245,161.84,0.82
+Hawaii,Wailuku-Kahului,73,218.67,1.0
+Hawaii,Waimea-Kekaha,34,303.85,0.99
+Jersey City,Ward A (councilmember Denise Ridley),109,93.44,1.37
+Jersey City,Ward B (councilmember Mira Prinz-Arey),206,93.68,1.47
+Jersey City,Ward C (councilmember Richard Boggiano),502,106.1,1.15
+Jersey City,Ward D (councilmember Michael Yun),406,116.16,1.62
+Jersey City,Ward E (councilmember James Solomon),938,182.55,0.83
+Jersey City,Ward F (councilmember Jermaine D. Robinson),324,105.01,1.33
+Los Angeles,Adams-Normandie,35,83.83,1.27
+Los Angeles,Agoura Hills,37,177.19,0.71
+Los Angeles,Alhambra,269,100.17,1.58
+Los Angeles,Altadena,224,167.5,1.22
+Los Angeles,Arcadia,193,123.73,0.61
+Los Angeles,Arlington Heights,116,68.97,0.98
+Los Angeles,Atwater Village,85,145.38,1.45
+Los Angeles,Avalon,152,504.27,0.64
+Los Angeles,Azusa,64,108.88,1.13
+Los Angeles,Baldwin Hills/Crenshaw,61,104.18,0.73
+Los Angeles,Baldwin Park,35,82.69,0.71
+Los Angeles,Bel-Air,32,499.88,0.76
+Los Angeles,Bellflower,33,80.36,1.31
+Los Angeles,Beverly Crest,97,562.18,0.8
+Los Angeles,Beverly Grove,399,244.09,0.76
+Los Angeles,Beverly Hills,457,268.75,0.65
+Los Angeles,Beverlywood,24,177.38,1.25
+Los Angeles,Boyle Heights,77,100.84,1.69
+Los Angeles,Brentwood,164,230.51,0.57
+Los Angeles,Burbank,338,131.41,1.47
+Los Angeles,Calabasas,52,183.37,0.5
+Los Angeles,Canoga Park,54,101.81,1.1
+Los Angeles,Carson,82,71.79,1.56
+Los Angeles,Carthay,64,158.63,1.17
+Los Angeles,Century City,22,203.32,1.12
+Los Angeles,Cerritos,25,89.92,0.7
+Los Angeles,Chatsworth,39,163.69,1.14
+Los Angeles,Cheviot Hills,32,210.78,0.9
+Los Angeles,Chinatown,49,109.0,1.37
+Los Angeles,Claremont,53,166.43,1.57
+Los Angeles,Covina,48,86.08,1.83
+Los Angeles,Culver City,308,149.87,1.43
+Los Angeles,Del Aire,52,115.79,3.4
+Los Angeles,Del Rey,221,145.31,1.23
+Los Angeles,Diamond Bar,157,121.46,0.73
+Los Angeles,Downey,59,106.53,1.87
+Los Angeles,Downtown,1108,177.39,1.0
+Los Angeles,Duarte,22,91.09,0.69
+Los Angeles,Eagle Rock,119,144.31,1.37
+Los Angeles,East Hollywood,486,91.28,1.06
+Los Angeles,East Los Angeles,117,99.91,2.28
+Los Angeles,East Pasadena,40,164.43,2.08
+Los Angeles,East San Gabriel,80,81.16,0.8
+Los Angeles,Echo Park,376,126.33,1.19
+Los Angeles,El Monte,110,118.71,1.38
+Los Angeles,El Segundo,144,124.81,2.65
+Los Angeles,El Sereno,54,126.31,2.37
+Los Angeles,Encino,119,264.49,1.14
+Los Angeles,Exposition Park,102,106.58,0.73
+Los Angeles,Fairfax,235,202.02,1.04
+Los Angeles,Gardena,103,87.75,1.29
+Los Angeles,Glassell Park,72,108.39,1.37
+Los Angeles,Glendale,559,154.47,1.13
+Los Angeles,Glendora,60,131.22,1.53
+Los Angeles,Granada Hills,38,169.18,1.31
+Los Angeles,Green Meadows,38,26.11,1.01
+Los Angeles,Hacienda Heights,239,89.2,0.84
+Los Angeles,Hancock Park,80,219.51,0.84
+Los Angeles,Harbor City,27,180.11,0.64
+Los Angeles,Harbor Gateway,35,91.31,0.82
+Los Angeles,Harvard Heights,84,73.5,1.07
+Los Angeles,Hawthorne,159,104.29,1.69
+Los Angeles,Hermosa Beach,195,269.81,0.86
+Los Angeles,Highland Park,160,113.84,1.41
+Los Angeles,Historic South-Central,63,72.33,1.04
+Los Angeles,Hollywood,1518,141.6,1.06
+Los Angeles,Hollywood Hills,707,246.46,1.2
+Los Angeles,Hollywood Hills West,393,439.67,1.08
+Los Angeles,Hyde Park,56,100.8,1.78
+Los Angeles,Industry,51,108.47,1.18
+Los Angeles,Inglewood,406,114.23,1.98
+Los Angeles,Jefferson Park,54,109.94,1.57
+Los Angeles,Koreatown,478,107.84,0.93
+Los Angeles,La Canada Flintridge,47,272.4,0.91
+Los Angeles,La Crescenta-Montrose,24,126.13,1.63
+Los Angeles,Ladera Heights,47,170.32,1.55
+Los Angeles,Lake Balboa,68,146.72,1.13
+Los Angeles,Lakewood,50,129.1,1.37
+Los Angeles,Lancaster,122,59.51,1.13
+Los Angeles,Larchmont,74,183.84,0.91
+Los Angeles,Lawndale,84,71.89,1.02
+Los Angeles,Leimert Park,40,115.03,1.53
+Los Angeles,Lennox,29,83.72,1.59
+Los Angeles,Lincoln Heights,61,101.07,0.84
+Los Angeles,Lomita,25,106.88,1.59
+Los Angeles,Long Beach,1582,139.37,1.6
+Los Angeles,Los Feliz,303,174.94,0.87
+Los Angeles,Malibu,281,614.45,1.76
+Los Angeles,Manhattan Beach,193,336.17,0.39
+Los Angeles,Mar Vista,262,166.48,1.43
+Los Angeles,Marina del Rey,205,222.93,1.11
+Los Angeles,Mayflower Village,21,84.33,1.73
+Los Angeles,Mid-City,366,120.21,1.24
+Los Angeles,Mid-Wilshire,491,147.42,0.84
+Los Angeles,Monrovia,91,100.37,1.07
+Los Angeles,Montebello,33,105.76,0.9
+Los Angeles,Montecito Heights,57,125.35,1.45
+Los Angeles,Monterey Park,228,113.34,1.01
+Los Angeles,Mount Washington,94,142.54,1.79
+Los Angeles,North Hills,39,90.21,1.01
+Los Angeles,North Hollywood,361,132.83,1.01
+Los Angeles,Northridge,86,155.62,1.15
+Los Angeles,Norwalk,54,82.56,1.67
+Los Angeles,Pacific Palisades,140,355.83,1.24
+Los Angeles,Palmdale,89,62.88,1.03
+Los Angeles,Palms,221,105.76,0.72
+Los Angeles,Panorama City,22,80.5,0.6
+Los Angeles,Pasadena,470,153.43,1.15
+Los Angeles,Pico Rivera,39,66.03,2.08
+Los Angeles,Pico-Robertson,146,184.51,0.75
+Los Angeles,Pico-Union,96,104.73,1.36
+Los Angeles,Playa Vista,69,176.3,0.69
+Los Angeles,Playa del Rey,100,232.94,0.99
+Los Angeles,Pomona,113,103.83,1.21
+Los Angeles,Rancho Palos Verdes,73,354.22,0.5
+Los Angeles,Rancho Park,31,117.68,0.77
+Los Angeles,Redondo Beach,338,171.86,1.0
+Los Angeles,Reseda,93,129.97,1.37
+Los Angeles,Rosemead,76,108.0,1.54
+Los Angeles,Rowland Heights,518,85.36,0.98
+Los Angeles,San Dimas,37,107.41,0.93
+Los Angeles,San Gabriel,136,103.82,1.1
+Los Angeles,San Pasqual,21,148.0,0.98
+Los Angeles,San Pedro,104,147.8,1.3
+Los Angeles,Santa Clarita,146,133.66,1.15
+Los Angeles,Santa Monica,1133,178.56,1.02
+Los Angeles,Sawtelle,450,121.78,0.8
+Los Angeles,Sherman Oaks,334,226.29,0.91
+Los Angeles,Sierra Madre,24,133.08,1.02
+Los Angeles,Signal Hill,37,115.35,1.78
+Los Angeles,Silver Lake,451,154.15,1.43
+Los Angeles,South Pasadena,78,166.45,1.04
+Los Angeles,South San Gabriel,26,61.81,1.63
+Los Angeles,Studio City,297,239.3,1.17
+Los Angeles,Sun Valley,66,145.85,1.48
+Los Angeles,Tarzana,111,208.39,0.82
+Los Angeles,Temple City,131,79.81,0.73
+Los Angeles,Toluca Lake,55,190.31,0.85
+Los Angeles,Topanga,252,278.62,1.91
+Los Angeles,Torrance,266,118.47,1.32
+Los Angeles,Tujunga,21,92.95,0.73
+Los Angeles,Unincorporated Santa Monica Mountains,114,416.7,1.86
+Los Angeles,University Park,59,66.37,0.71
+Los Angeles,Valinda,23,76.17,2.69
+Los Angeles,Valley Glen,144,169.98,1.08
+Los Angeles,Valley Village,120,174.6,0.88
+Los Angeles,Van Nuys,177,114.51,1.0
+Los Angeles,Venice,1557,232.07,1.44
+Los Angeles,Vermont Square,57,75.39,1.48
+Los Angeles,View Park-Windsor Hills,73,142.7,1.75
+Los Angeles,Walnut,79,133.84,0.54
+Los Angeles,Watts,26,33.96,0.98
+Los Angeles,West Adams,76,120.92,1.63
+Los Angeles,West Carson,36,95.14,0.76
+Los Angeles,West Covina,117,98.97,0.78
+Los Angeles,West Hills,60,152.05,1.05
+Los Angeles,West Hollywood,611,164.69,0.89
+Los Angeles,West Los Angeles,152,112.43,0.66
+Los Angeles,Westchester,200,152.12,1.26
+Los Angeles,Westlake,465,132.4,1.26
+Los Angeles,Westmont,27,118.52,1.77
+Los Angeles,Westwood,446,161.83,0.65
+Los Angeles,Whittier,66,132.95,1.71
+Los Angeles,Wilmington,29,72.76,2.63
+Los Angeles,Windsor Square,31,178.32,0.63
+Los Angeles,Winnetka,67,114.63,0.93
+Los Angeles,Woodland Hills,272,193.44,0.94
+Nashville,District 1,46,150.13,1.93
+Nashville,District 10,37,180.54,1.5
+Nashville,District 11,29,139.86,1.33
+Nashville,District 12,47,81.85,1.21
+Nashville,District 13,87,134.6,1.74
+Nashville,District 14,36,139.0,2.49
+Nashville,District 15,239,176.12,1.21
+Nashville,District 16,124,146.99,2.4
+Nashville,District 17,838,277.48,1.81
+Nashville,District 18,291,206.54,1.75
+Nashville,District 19,1375,209.31,2.24
+Nashville,District 2,164,253.3,1.7
+Nashville,District 20,161,194.24,1.64
+Nashville,District 21,519,212.91,1.84
+Nashville,District 22,24,107.08,1.14
+Nashville,District 23,23,260.35,2.14
+Nashville,District 24,152,203.88,1.91
+Nashville,District 25,73,195.32,1.65
+Nashville,District 26,57,136.33,2.44
+Nashville,District 27,34,111.12,1.77
+Nashville,District 29,33,94.82,1.69
+Nashville,District 3,39,134.51,1.46
+Nashville,District 30,29,114.45,2.24
+Nashville,District 32,22,111.09,0.7
+Nashville,District 35,28,124.64,1.62
+Nashville,District 4,31,114.84,1.28
+Nashville,District 5,559,223.48,1.84
+Nashville,District 6,530,195.85,2.31
+Nashville,District 7,271,161.07,2.01
+Nashville,District 8,130,151.52,2.23
+New Orleans,Algiers Point,60,126.17,1.95
+New Orleans,Audubon,115,207.62,1.43
+New Orleans,Bayou St. John,112,138.38,1.51
+New Orleans,Black Pearl,25,147.32,1.22
+New Orleans,Broadmoor,117,132.09,1.66
+New Orleans,Bywater,187,166.77,1.94
+New Orleans,Central Business District,830,167.79,1.38
+New Orleans,Central City,492,164.67,1.59
+New Orleans,City Park,62,134.6,1.64
+New Orleans,Dillard,45,168.07,1.31
+New Orleans,East Carrollton,69,122.65,1.31
+New Orleans,East Riverside,110,138.69,1.83
+New Orleans,Fairgrounds,151,159.63,1.31
+New Orleans,Fillmore,49,168.86,1.68
+New Orleans,French Quarter,205,214.99,1.1
+New Orleans,Freret,44,121.5,1.63
+New Orleans,Garden District,35,205.83,1.37
+New Orleans,Gentilly Terrace,73,126.84,1.45
+New Orleans,Hollygrove,26,165.73,1.37
+New Orleans,Holy Cross,48,134.13,1.49
+New Orleans,Irish Channel,115,159.56,2.02
+New Orleans,Lakeview,24,193.96,1.18
+New Orleans,Leonidas,115,145.02,1.37
+New Orleans,Little Woods,48,183.06,1.18
+New Orleans,Lower Garden District,309,200.79,1.27
+New Orleans,Marigny,379,207.08,1.73
+New Orleans,Marlyville - Fontainbleau,86,164.31,1.49
+New Orleans,Mcdonogh,31,125.87,1.91
+New Orleans,Mid-City,422,149.61,1.5
+New Orleans,Milan,109,178.32,1.81
+New Orleans,Milneburg,30,112.27,1.6
+New Orleans,Old Aurora,32,337.06,1.12
+New Orleans,Seventh Ward,409,171.48,1.71
+New Orleans,St.  Anthony,35,141.86,1.58
+New Orleans,St. Claude,212,137.78,1.75
+New Orleans,St. Roch,133,152.02,1.87
+New Orleans,St. Thomas Dev,43,187.98,1.93
+New Orleans,Touro,46,155.54,1.26
+New Orleans,Treme - Lafitte,371,196.85,1.97
+New Orleans,Tulane - Gravier,135,154.81,2.21
+New Orleans,Uptown,105,236.97,1.5
+New Orleans,West Riverside,108,186.71,1.57
+New York City,Allerton,40,96.6,1.56
+New York City,Arverne,76,231.51,1.45
+New York City,Astoria,852,96.01,0.74
+New York City,Battery Park City,75,269.45,0.14
+New York City,Bay Ridge,153,87.94,0.85
+New York City,Bayside,62,109.37,0.68
+New York City,Bedford-Stuyvesant,3364,104.59,0.82
+New York City,Bensonhurst,67,75.75,0.85
+New York City,Boerum Hill,169,190.76,0.57
+New York City,Borough Park,111,66.97,0.75
+New York City,Briarwood,34,128.5,0.97
+New York City,Brighton Beach,71,127.25,0.89
+New York City,Brooklyn Heights,148,187.8,0.49
+New York City,Brownsville,71,110.14,1.26
+New York City,Bushwick,2164,82.62,0.64
+New York City,Cambria Heights,31,96.1,1.19
+New York City,Canarsie,162,104.87,1.48
+New York City,Carroll Gardens,218,174.3,0.53
+New York City,Chelsea,1092,193.7,0.59
+New York City,Chinatown,384,141.66,0.69
+New York City,Civic Center,48,153.21,0.2
+New York City,Claremont Village,27,84.19,0.9
+New York City,Clason Point,25,90.36,1.05
+New York City,Clinton Hill,527,144.63,0.53
+New York City,Cobble Hill,96,194.75,0.5
+New York City,College Point,27,100.85,1.48
+New York City,Columbia St,39,171.18,0.68
+New York City,Concourse,56,84.2,1.13
+New York City,Concourse Village,38,66.68,0.76
+New York City,Corona,72,70.69,1.04
+New York City,Crown Heights,1421,108.59,0.62
+New York City,Cypress Hills,139,83.78,1.25
+New York City,DUMBO,34,181.18,0.74
+New York City,Ditmars Steinway,272,96.44,0.78
+New York City,Downtown Brooklyn,74,146.8,0.69
+New York City,East Elmhurst,193,81.7,2.71
+New York City,East Flatbush,483,86.88,0.93
+New York City,East Harlem,974,116.39,0.82
+New York City,East New York,230,100.1,1.35
+New York City,East Village,1669,159.95,0.49
+New York City,Elmhurst,258,65.07,0.72
+New York City,Far Rockaway,36,143.14,1.07
+New York City,Financial District,510,184.22,0.42
+New York City,Flatbush,568,92.92,0.64
+New York City,Flatiron District,70,265.1,0.53
+New York City,Flatlands,82,94.45,0.74
+New York City,Flushing,401,92.54,1.13
+New York City,Fordham,41,76.56,0.49
+New York City,Forest Hills,113,103.95,0.77
+New York City,Fort Greene,426,155.33,0.55
+New York City,Fort Hamilton,50,100.36,0.65
+New York City,Fresh Meadows,37,124.97,1.23
+New York City,Glendale,54,62.09,1.17
+New York City,Gowanus,217,164.27,0.81
+New York City,Gramercy,309,182.3,0.47
+New York City,Gravesend,78,96.12,0.68
+New York City,Greenpoint,987,129.13,0.39
+New York City,Greenwich Village,323,210.59,0.42
+New York City,Harlem,2456,112.51,0.71
+New York City,Hell's Kitchen,1808,185.27,0.8
+New York City,Highbridge,32,74.25,1.23
+New York City,Howard Beach,24,137.71,1.86
+New York City,Hunts Point,25,56.32,0.97
+New York City,Inwood,239,78.64,0.51
+New York City,Jackson Heights,228,77.25,0.91
+New York City,Jamaica,249,93.15,1.91
+New York City,Jamaica Estates,22,227.73,1.37
+New York City,Kensington,157,97.01,0.59
+New York City,Kew Gardens,33,107.55,0.48
+New York City,Kew Gardens Hills,32,113.47,0.7
+New York City,Kingsbridge,70,90.31,0.57
+New York City,Kips Bay,418,180.17,0.4
+New York City,Laurelton,33,98.36,1.33
+New York City,Little Italy,138,184.28,0.49
+New York City,Long Island City,517,118.79,0.63
+New York City,Longwood,59,93.15,0.75
+New York City,Lower East Side,799,153.26,0.63
+New York City,Maspeth,118,89.13,0.98
+New York City,Middle Village,35,129.37,0.81
+New York City,Midtown,1603,247.95,0.47
+New York City,Midwood,104,80.08,0.63
+New York City,Morningside Heights,311,104.06,0.42
+New York City,Morris Heights,26,91.81,0.91
+New York City,Morris Park,23,71.96,0.89
+New York City,Morrisania,26,84.38,1.01
+New York City,Mott Haven,61,109.43,1.48
+New York City,Mount Hope,28,87.79,0.77
+New York City,Murray Hill,442,186.2,0.4
+New York City,NoHo,67,250.4,0.44
+New York City,Nolita,287,184.05,0.44
+New York City,Norwood,38,75.11,0.84
+New York City,Ozone Park,55,85.24,0.97
+New York City,Park Slope,462,168.21,0.63
+New York City,Parkchester,49,82.96,1.06
+New York City,Pelham Gardens,29,110.79,1.35
+New York City,Port Morris,40,91.35,1.06
+New York City,Prospect Heights,321,142.81,0.71
+New York City,Prospect-Lefferts Gardens,498,102.05,0.72
+New York City,Queens Village,68,96.69,1.58
+New York City,Red Hook,79,149.65,0.84
+New York City,Rego Park,95,97.08,0.83
+New York City,Richmond Hill,95,89.96,1.13
+New York City,Ridgewood,347,81.75,0.55
+New York City,Rockaway Beach,64,148.78,1.72
+New York City,Roosevelt Island,90,100.1,0.5
+New York City,Rosedale,77,80.31,1.37
+New York City,Sheepshead Bay,146,115.38,0.61
+New York City,SoHo,329,256.42,0.74
+New York City,South Ozone Park,35,93.31,2.51
+New York City,South Slope,248,143.84,0.75
+New York City,Springfield Gardens,82,105.16,2.2
+New York City,St. Albans,82,96.56,1.38
+New York City,St. George,56,123.84,1.18
+New York City,Stuyvesant Town,53,134.51,0.26
+New York City,Sunnyside,378,83.18,0.68
+New York City,Sunset Park,374,102.05,0.74
+New York City,Theater District,335,245.99,0.72
+New York City,Throgs Neck,29,92.34,1.76
+New York City,Tompkinsville,38,83.84,1.73
+New York City,Tremont,21,79.71,0.8
+New York City,Tribeca,187,303.39,0.31
+New York City,Two Bridges,65,108.6,0.8
+New York City,University Heights,23,57.91,0.73
+New York City,Upper East Side,1625,168.21,0.44
+New York City,Upper West Side,1820,176.33,0.47
+New York City,Vinegar Hill,25,221.0,0.25
+New York City,Wakefield,82,104.93,1.12
+New York City,Washington Heights,851,90.79,0.59
+New York City,West Village,689,212.37,0.45
+New York City,Williamsbridge,43,110.0,1.11
+New York City,Williamsburg,3406,130.46,0.53
+New York City,Windsor Terrace,144,125.44,0.72
+New York City,Woodhaven,91,72.7,1.38
+New York City,Woodside,348,59.61,0.54
+Oakland,Adams Point,70,116.17,0.66
+Oakland,Allendale,24,81.46,0.85
+Oakland,Brookfield Village,25,50.08,0.88
+Oakland,Bushrod,134,119.48,1.1
+Oakland,Chinatown,35,126.23,0.87
+Oakland,Claremont,22,188.5,0.97
+Oakland,Clawson,45,113.69,1.27
+Oakland,Cleveland Heights,96,107.39,0.73
+Oakland,Clinton,38,106.71,1.02
+Oakland,Downtown,23,136.35,0.49
+Oakland,Eastmont Hills,33,98.18,1.62
+Oakland,Fairview Park,61,135.18,1.47
+Oakland,Forestland,21,155.33,0.83
+Oakland,Frick,27,58.33,0.9
+Oakland,Gaskill,29,92.59,1.49
+Oakland,Glen Highlands,21,171.43,1.25
+Oakland,Glenview,55,122.96,0.82
+Oakland,Golden Gate,37,123.59,1.02
+Oakland,Grand Lake,61,126.44,1.09
+Oakland,Hoover-Foster,64,120.94,1.37
+Oakland,Ivy Hill,22,90.59,0.36
+Oakland,Lakeshore,57,170.53,1.02
+Oakland,Lakewide,40,121.8,0.74
+Oakland,Lincoln Highlands,31,146.19,0.67
+Oakland,Longfellow,117,97.51,1.35
+Oakland,Maxwell Park,41,105.02,0.99
+Oakland,McClymonds,30,115.87,0.53
+Oakland,Merritt,26,116.62,0.65
+Oakland,Merriwood,45,172.36,1.18
+Oakland,Millsmont,43,111.37,1.17
+Oakland,Montclair,42,192.98,0.91
+Oakland,Mosswood,27,115.37,1.31
+Oakland,Oak Center,42,126.38,1.07
+Oakland,Oakland Ave-Harrison St,63,105.59,1.38
+Oakland,Oakmore,57,135.67,1.58
+Oakland,Old City-Produce And Waterfront,26,155.58,1.44
+Oakland,Paradise Park,27,114.81,1.67
+Oakland,Piedmont Avenue,94,133.34,0.86
+Oakland,Piedmont Pines,37,139.51,1.02
+Oakland,Prescott,130,101.66,1.19
+Oakland,Ralph Bunche,33,117.73,0.72
+Oakland,Redwood Heights,51,127.98,1.33
+Oakland,Reservoir Hill-Meadow Brook,55,57.2,1.17
+Oakland,Rockridge,53,176.64,0.9
+Oakland,Santa Fe,66,101.55,0.78
+Oakland,Seminary,38,283.97,0.84
+Oakland,Sequoyah,26,91.77,0.86
+Oakland,Shafter,79,159.91,1.58
+Oakland,South Prescott,45,56.62,0.71
+Oakland,Temescal,95,115.67,0.85
+Oakland,Trestle Glen,35,203.06,0.94
+Oakland,Upper Dimond,34,97.65,1.11
+Oakland,Upper Laurel,28,97.93,1.28
+Oakland,Upper Rockridge,72,218.17,0.94
+Pacific Grove,Pacific Grove,177,253.95,1.8
+Portland,Arbor Lodge,61,96.69,2.64
+Portland,Beaumont-Wilshire,34,103.0,2.82
+Portland,Boise,96,117.44,3.76
+Portland,Brentwood-Darlington,28,79.54,2.5
+Portland,Brooklyn Action Corps,36,100.5,2.61
+Portland,Buckman,187,312.81,2.74
+Portland,Cathedral Park,26,108.54,1.87
+Portland,Concordia,140,114.72,2.99
+Portland,Creston-Kenilworth,43,88.42,2.78
+Portland,Cully,56,72.8,2.71
+Portland,Eliot,53,138.38,2.98
+Portland,Foster-Powell,40,85.67,2.82
+Portland,Goose Hollow,35,129.29,0.96
+Portland,Grant Park,23,150.65,1.94
+Portland,Hayhurst,25,104.84,2.13
+Portland,Hazelwood,31,108.45,1.91
+Portland,Hillsdale,41,98.85,1.71
+Portland,Homestead,32,82.13,2.09
+Portland,Hosford-Abernethy,105,129.0,3.19
+Portland,Humboldt,76,133.97,2.36
+Portland,Irvington,110,167.11,2.06
+Portland,Kenton,104,115.78,1.34
+Portland,Kerns,100,241.76,2.15
+Portland,King,160,121.42,3.07
+Portland,Laurelhurst,32,117.84,2.81
+Portland,Lents,36,70.17,1.93
+Portland,Madison South,29,75.48,3.44
+Portland,Montavilla,76,86.74,2.3
+Portland,Mt. Scott-Arleta,33,81.21,2.17
+Portland,Mt. Tabor,124,109.19,2.32
+Portland,Multnomah,33,96.09,2.14
+Portland,North Tabor,39,96.54,2.26
+Portland,Northwest District,228,136.5,2.01
+Portland,Old Town/Chinatown,34,230.76,2.2
+Portland,Overlook,94,102.23,2.8
+Portland,Pearl,141,215.85,0.58
+Portland,Piedmont,70,103.4,2.42
+Portland,Portland Downtown,239,245.17,0.51
+Portland,Portsmouth,40,79.38,1.71
+Portland,Powellhurst-Gilbert,29,65.17,2.05
+Portland,Richmond,229,111.57,2.81
+Portland,Rose City Park,56,100.82,2.48
+Portland,Roseway,43,82.02,2.09
+Portland,Sabin,48,111.02,2.48
+Portland,Sellwood-Moreland Improvement League,87,111.18,2.04
+Portland,South Portland,72,112.94,1.97
+Portland,South Tabor,49,92.55,2.57
+Portland,Southwest Hills,35,176.57,2.4
+Portland,St. Johns,66,79.33,1.32
+Portland,Sullivan's Gulch,28,101.54,3.5
+Portland,Sunnyside,109,113.89,2.72
+Portland,University Park,32,96.03,2.66
+Portland,Vernon,63,110.29,2.3
+Portland,Woodlawn,58,87.28,2.84
+Portland,Woodstock,59,101.46,2.65
+Rhode Island,Barrington,23,269.13,0.86
+Rhode Island,Bristol,69,219.88,0.99
+Rhode Island,Charlestown,77,273.03,0.61
+Rhode Island,Coventry,23,171.26,0.68
+Rhode Island,Cranston,53,106.87,1.56
+Rhode Island,East Providence,55,122.29,1.66
+Rhode Island,Jamestown,96,368.02,0.79
+Rhode Island,Little Compton,68,288.63,0.62
+Rhode Island,Middletown,289,405.06,1.02
+Rhode Island,Narragansett,559,341.93,0.47
+Rhode Island,New Shoreham,124,407.3,0.49
+Rhode Island,Newport,849,331.68,0.93
+Rhode Island,North Kingstown,65,219.82,1.43
+Rhode Island,North Providence,31,69.1,1.63
+Rhode Island,Pawtucket,40,116.92,1.13
+Rhode Island,Portsmouth,60,281.9,1.4
+Rhode Island,Providence,795,139.97,1.75
+Rhode Island,South Kingstown,220,249.13,0.92
+Rhode Island,Tiverton,28,334.25,0.79
+Rhode Island,Warwick,61,123.59,1.95
+Rhode Island,Westerly,125,366.6,0.84
+Salem,Ward 1,46,147.35,2.36
+Salem,Ward 2,41,163.15,1.95
+Salem,Ward 7,36,234.08,1.4
+Salem,Ward 8,32,262.16,0.71
+San Clara Country,Campbell,129,148.4,1.02
+San Clara Country,Cupertino,309,133.59,0.82
+San Clara Country,Gilroy,21,111.9,1.39
+San Clara Country,Los Altos,70,218.13,0.84
+San Clara Country,Los Altos Hills,49,183.33,0.93
+San Clara Country,Los Gatos,83,160.43,1.08
+San Clara Country,Milpitas,290,121.61,1.07
+San Clara Country,Morgan Hill,42,108.17,0.5
+San Clara Country,Mountain View,645,148.97,0.97
+San Clara Country,Palo Alto,777,197.62,1.05
+San Clara Country,San Jose,2849,130.34,1.23
+San Clara Country,Santa Clara,682,132.64,1.0
+San Clara Country,Saratoga,63,211.3,0.98
+San Clara Country,Sunnyvale,757,120.9,0.82
+San Clara Country,Unincorporated Areas,270,192.68,1.63
+San Diego,Allied Gardens,22,138.27,0.8
+San Diego,Balboa Park,310,174.15,1.6
+San Diego,Bay Ho,91,114.36,1.25
+San Diego,Bay Park,189,182.81,1.16
+San Diego,Bay Terrace,27,83.7,0.84
+San Diego,Bird Land,23,123.61,0.77
+San Diego,Carmel Mountain,22,142.68,0.24
+San Diego,Carmel Valley,151,188.77,0.57
+San Diego,City Heights East,52,90.27,2.74
+San Diego,City Heights West,107,91.75,1.67
+San Diego,Clairemont Mesa,170,125.11,1.18
+San Diego,College Area,120,125.24,1.03
+San Diego,Core,127,168.76,1.47
+San Diego,Cortez Hill,165,187.49,1.45
+San Diego,Darnall,28,108.86,1.66
+San Diego,Del Cerro,29,177.31,1.5
+San Diego,Del Mar Heights,79,331.27,0.56
+San Diego,East Village,740,187.74,1.3
+San Diego,El Cerritos,22,143.82,0.96
+San Diego,Encanto,41,93.88,1.83
+San Diego,Gaslamp Quarter,231,197.24,1.32
+San Diego,Grant Hill,171,166.31,2.05
+San Diego,Grantville,57,114.51,1.13
+San Diego,Kensington,56,146.64,1.56
+San Diego,La Jolla,814,370.38,1.09
+San Diego,La Jolla Village,50,137.1,0.61
+San Diego,Lake Murray,23,126.57,1.16
+San Diego,Linda Vista,130,147.78,1.33
+San Diego,Little Italy,233,219.08,2.39
+San Diego,Loma Portal,327,147.68,1.57
+San Diego,Marina,157,186.47,1.05
+San Diego,Memorial,91,124.52,2.98
+San Diego,Midtown,573,190.18,1.5
+San Diego,Midtown District,56,180.66,0.98
+San Diego,Mira Mesa,207,81.67,1.14
+San Diego,Mission Bay,1642,359.81,1.16
+San Diego,Mission Valley,61,167.54,0.36
+San Diego,Moreno Mission,87,118.94,1.31
+San Diego,Mount Hope,26,132.04,2.17
+San Diego,Mountain View,33,114.76,2.11
+San Diego,Normal Heights,153,130.71,1.93
+San Diego,North City,44,265.86,0.37
+San Diego,North Clairemont,105,123.3,1.66
+San Diego,North Hills,618,142.36,1.77
+San Diego,Northwest,90,137.71,1.66
+San Diego,Oak Park,23,90.52,1.76
+San Diego,Ocean Beach,519,241.25,2.12
+San Diego,Old Town,209,194.34,1.75
+San Diego,Otay Ranch,63,101.27,1.42
+San Diego,Pacific Beach,1040,220.3,1.22
+San Diego,Paradise Hills,31,87.9,1.23
+San Diego,Park West,209,167.37,2.01
+San Diego,Rancho Bernadino,53,159.68,0.55
+San Diego,Rancho Penasquitos,85,199.04,0.7
+San Diego,Rolando,49,132.45,1.25
+San Diego,Roseville,93,218.75,1.51
+San Diego,San Carlos,48,154.79,1.46
+San Diego,Scripps Ranch,51,181.25,0.83
+San Diego,Serra Mesa,127,116.35,1.04
+San Diego,Sorrento Valley,31,188.97,0.35
+San Diego,South Park,101,136.12,2.09
+San Diego,Southwest,52,127.94,1.65
+San Diego,Talmadge,41,148.85,1.41
+San Diego,University City,228,119.71,0.89
+San Diego,Webster,25,120.92,1.74
+San Diego,West University Heights,213,159.46,1.24
+San Diego,Wooded Area,48,362.46,1.41
+San Francisco,Bayview,183,114.38,1.26
+San Francisco,Bernal Heights,337,183.62,1.23
+San Francisco,Castro/Upper Market,377,237.72,1.22
+San Francisco,Chinatown,111,183.05,0.73
+San Francisco,Crocker Amazon,38,103.76,1.7
+San Francisco,Downtown/Civic Center,690,168.95,0.63
+San Francisco,Excelsior,155,107.12,1.52
+San Francisco,Financial District,166,212.84,0.62
+San Francisco,Glen Park,48,265.08,1.13
+San Francisco,Haight Ashbury,342,195.12,1.09
+San Francisco,Inner Richmond,192,198.48,1.28
+San Francisco,Inner Sunset,144,186.12,1.27
+San Francisco,Lakeshore,43,122.74,1.16
+San Francisco,Marina,165,312.41,0.83
+San Francisco,Mission,591,188.82,0.94
+San Francisco,Nob Hill,245,199.36,0.47
+San Francisco,Noe Valley,291,214.27,1.16
+San Francisco,North Beach,206,207.61,0.78
+San Francisco,Ocean View,122,114.54,1.24
+San Francisco,Outer Mission,139,159.99,1.51
+San Francisco,Outer Richmond,151,172.9,1.79
+San Francisco,Outer Sunset,279,133.84,2.11
+San Francisco,Pacific Heights,148,281.86,0.98
+San Francisco,Parkside,118,142.18,1.92
+San Francisco,Potrero Hill,218,225.8,1.17
+San Francisco,Presidio Heights,23,247.04,0.8
+San Francisco,Russian Hill,183,311.14,0.64
+San Francisco,South of Market,526,191.78,0.53
+San Francisco,Twin Peaks,68,239.53,1.34
+San Francisco,Visitacion Valley,50,140.82,2.48
+San Francisco,West of Twin Peaks,115,174.37,1.66
+San Francisco,Western Addition,490,199.1,0.88
+San Mateo County,Atherton,48,143.63,0.72
+San Mateo County,Belmont,54,185.44,1.31
+San Mateo County,Brisbane,23,190.09,2.68
+San Mateo County,Burlingame,94,161.93,1.86
+San Mateo County,Daly City,509,162.45,2.44
+San Mateo County,East Palo Alto,198,126.71,0.91
+San Mateo County,Foster City,60,175.98,0.75
+San Mateo County,Half Moon Bay,52,407.0,1.59
+San Mateo County,Hillsborough,21,293.24,0.87
+San Mateo County,Menlo Park,270,221.41,0.92
+San Mateo County,Millbrae,84,171.15,2.35
+San Mateo County,Pacifica,142,205.77,2.35
+San Mateo County,Redwood City,256,157.72,1.03
+San Mateo County,San Bruno,139,169.76,2.22
+San Mateo County,San Carlos,79,183.35,1.18
+San Mateo County,San Mateo,309,150.35,1.2
+San Mateo County,South San Francisco,155,157.95,2.57
+San Mateo County,Unincorporated Areas,303,206.03,1.83
+San Mateo County,Woodside,27,231.93,0.95
+Santa Cruz County,City of Capitola,184,295.98,1.47
+Santa Cruz County,City of Santa Cruz,459,243.3,1.63
+Santa Cruz County,City of Scotts Valley,26,200.15,2.22
+Santa Cruz County,Unincorporated Areas,879,244.68,1.85
+Seattle,Adams,115,146.31,1.8
+Seattle,Alki,82,160.15,2.01
+Seattle,Atlantic,88,124.11,2.09
+Seattle,Belltown,345,164.75,1.79
+Seattle,Bitter Lake,30,107.47,1.46
+Seattle,Brighton,58,101.71,1.26
+Seattle,Broadview,28,104.89,1.18
+Seattle,Broadway,382,146.85,1.83
+Seattle,Bryant,50,116.38,1.13
+Seattle,Cedar Park,30,167.9,0.9
+Seattle,Central Business District,240,322.51,0.57
+Seattle,Columbia City,117,125.63,2.0
+Seattle,Crown Hill,31,109.48,1.55
+Seattle,Dunlap,31,123.19,2.03
+Seattle,East Queen Anne,96,168.61,1.92
+Seattle,Eastlake,76,135.53,1.5
+Seattle,Fairmount Park,47,125.79,1.39
+Seattle,Fauntleroy,27,167.96,1.4
+Seattle,First Hill,183,176.14,1.37
+Seattle,Fremont,207,136.13,1.88
+Seattle,Gatewood,41,109.59,1.46
+Seattle,Genesee,46,128.28,1.83
+Seattle,Green Lake,116,148.78,1.79
+Seattle,Greenwood,146,102.49,1.61
+Seattle,Haller Lake,36,90.86,1.04
+Seattle,Harrison/Denny-Blaine,29,160.59,1.27
+Seattle,High Point,28,66.86,1.43
+Seattle,Highland Park,31,85.97,2.48
+Seattle,Interbay,34,90.41,1.0
+Seattle,International District,79,397.81,0.69
+Seattle,Laurelhurst,23,138.83,1.61
+Seattle,Lawton Park,60,149.3,1.61
+Seattle,Leschi,69,146.54,1.52
+Seattle,Lower Queen Anne,123,172.37,1.56
+Seattle,Loyal Heights,72,139.51,2.05
+Seattle,Madrona,57,186.3,1.67
+Seattle,Mann,111,136.05,1.81
+Seattle,Maple Leaf,41,117.88,2.08
+Seattle,Matthews Beach,30,143.13,1.1
+Seattle,Mid-Beacon Hill,74,114.54,2.24
+Seattle,Minor,217,139.62,2.31
+Seattle,Montlake,73,105.0,1.35
+Seattle,Mount Baker,82,145.27,1.63
+Seattle,North Admiral,89,141.4,2.16
+Seattle,North Beach/Blue Ridge,25,193.2,1.59
+Seattle,North Beacon Hill,139,115.78,2.15
+Seattle,North College Park,47,69.43,1.53
+Seattle,North Delridge,52,117.98,2.25
+Seattle,North Queen Anne,132,156.78,1.59
+Seattle,Phinney Ridge,106,139.1,1.63
+Seattle,Pike-Market,112,232.88,1.45
+Seattle,Pinehurst,25,81.52,1.53
+Seattle,Pioneer Square,57,177.63,1.29
+Seattle,Portage Bay,21,164.24,1.57
+Seattle,Rainier Beach,48,121.56,1.96
+Seattle,Ravenna,83,117.96,1.46
+Seattle,Riverview,45,104.67,1.53
+Seattle,Roosevelt,63,126.81,1.55
+Seattle,Seaview,28,115.25,1.51
+Seattle,Seward Park,69,123.43,1.2
+Seattle,South Beacon Hill,35,110.66,2.09
+Seattle,South Delridge,34,94.91,1.97
+Seattle,South Lake Union,147,176.71,0.31
+Seattle,Southeast Magnolia,51,175.49,1.92
+Seattle,Stevens,186,149.39,1.54
+Seattle,Sunset Hill,45,185.31,1.32
+Seattle,University District,238,110.68,0.79
+Seattle,Victory Heights,27,128.85,1.9
+Seattle,Wallingford,244,135.41,1.84
+Seattle,Wedgwood,38,109.05,1.55
+Seattle,West Queen Anne,104,260.97,1.74
+Seattle,West Woodland,80,131.66,1.79
+Seattle,Westlake,44,141.82,1.61
+Seattle,Whittier Heights,57,143.98,2.18
+Seattle,Yesler Terrace,27,109.41,3.74
+Twin Cities MSA,Anoka,244,348.61,0.61
+Twin Cities MSA,Carver,218,713.36,0.3
+Twin Cities MSA,Chisago,47,221.98,0.97
+Twin Cities MSA,Dakota,268,308.68,0.52
+Twin Cities MSA,Hennepin,3601,301.45,1.02
+Twin Cities MSA,Mille Lacs,39,281.82,0.83
+Twin Cities MSA,Pierce,24,235.29,1.54
+Twin Cities MSA,Ramsey,970,250.95,1.05
+Twin Cities MSA,Scott,110,426.79,0.39
+Twin Cities MSA,Sherburne,41,235.2,0.64
+Twin Cities MSA,St. Croix,77,289.14,1.01
+Twin Cities MSA,Washington,215,314.91,0.86
+Twin Cities MSA,Wright,90,298.61,0.81
+Washington D.C.,"Brightwood Park, Crestwood, Petworth",400,137.39,1.1
+Washington D.C.,"Brookland, Brentwood, Langdon",119,112.61,1.58
+Washington D.C.,"Capitol Hill, Lincoln Park",674,174.93,1.21
+Washington D.C.,"Capitol View, Marshall Heights, Benning Heights",78,82.44,1.25
+Washington D.C.,"Cathedral Heights, McLean Gardens, Glover Park",100,213.86,0.88
+Washington D.C.,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",79,192.27,1.0
+Washington D.C.,"Colonial Village, Shepherd Park, North Portal Estates",36,107.44,0.61
+Washington D.C.,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",622,138.65,1.16
+Washington D.C.,"Congress Heights, Bellevue, Washington Highlands",83,126.65,1.1
+Washington D.C.,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",48,85.94,0.95
+Washington D.C.,"Douglas, Shipley Terrace",27,129.11,1.11
+Washington D.C.,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",334,207.46,0.61
+Washington D.C.,"Dupont Circle, Connecticut Avenue/K Street",552,171.1,1.05
+Washington D.C.,"Edgewood, Bloomingdale, Truxton Circle, Eckington",556,145.65,1.4
+Washington D.C.,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",28,133.43,1.12
+Washington D.C.,"Friendship Heights, American University Park, Tenleytown",73,145.75,1.27
+Washington D.C.,"Georgetown, Burleith/Hillandale",212,211.6,1.39
+Washington D.C.,"Hawthorne, Barnaby Woods, Chevy Chase",48,141.71,1.24
+Washington D.C.,Historic Anacostia,58,117.55,1.54
+Washington D.C.,"Howard University, Le Droit Park, Cardozo/Shaw",258,192.85,1.16
+Washington D.C.,"Ivy City, Arboretum, Trinidad, Carver Langston",210,107.7,1.4
+Washington D.C.,"Kalorama Heights, Adams Morgan, Lanier Heights",305,151.66,1.11
+Washington D.C.,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",113,108.96,0.92
+Washington D.C.,"Mayfair, Hillbrook, Mahaning Heights",43,109.44,0.72
+Washington D.C.,"Near Southeast, Navy Yard",85,159.99,0.36
+Washington D.C.,"North Cleveland Park, Forest Hills, Van Ness",57,153.65,0.36
+Washington D.C.,"North Michigan Park, Michigan Park, University Heights",68,92.01,1.36
+Washington D.C.,"River Terrace, Benning, Greenway, Dupont Park",48,90.27,1.02
+Washington D.C.,"Shaw, Logan Circle",483,179.76,1.37
+Washington D.C.,"Sheridan, Barry Farm, Buena Vista",33,124.64,0.91
+Washington D.C.,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",159,208.04,0.7
+Washington D.C.,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",74,170.38,0.93
+Washington D.C.,"Takoma, Brightwood, Manor Park",175,99.87,0.78
+Washington D.C.,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",84,172.5,1.11
+Washington D.C.,"Union Station, Stanton Park, Kingman Park",674,185.56,1.62
+Washington D.C.,"West End, Foggy Bottom, GWU",232,178.4,1.04
+Washington D.C.,"Woodridge, Fort Lincoln, Gateway",47,112.98,0.7

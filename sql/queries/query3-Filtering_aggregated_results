@@ -1,0 +1,5 @@
+SELECT city, COUNT(*) as listing_count
+FROM listings
+GROUP BY city
+HAVING COUNT(*) > 5000
+ORDER BY listing_count DESC;
