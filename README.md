@@ -3,7 +3,11 @@
 An end-to-end data analytics project that helps investors, real estate agents, and existing hosts identify the most profitable U.S. cities, neighborhoods, and property types for Airbnb investment — based on pricing, occupancy proxy, host behavior, and revenue potential.
 **Run the interactive investment recommender app locally:**
   
-**[View the Streamlit Ap:Investment Recorder :-](http://localhost:8501)**
+**Run the interactive investment recommender app locally:**
+```bash
+pip install -r requirements.txt
+streamlit run app/streamlit_app.py
+```
 
 [View the Interactive Dashboard on Tableau Public →](https://public.tableau.com/app/profile/sarabjot.singh6119/viz/AirbnbInvestmentAnalyzer/Dashboard1)**
 
